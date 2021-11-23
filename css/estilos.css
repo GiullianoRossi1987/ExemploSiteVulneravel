@@ -60,3 +60,9 @@ main{
 .linha-conteudo a{
     margin-bottom: 5px;
 }
+
+.alerta{
+    visibility: hidden;
+    background-color: #eb6365;
+    color: red;
+}
