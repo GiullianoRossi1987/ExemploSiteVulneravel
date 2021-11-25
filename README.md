@@ -6,4 +6,7 @@
 - Nenhuma validação dos dados para login
 - Não utilização do login via AJAX (torna menos seguro)
 
-_finalizado_
+## Grupo
+- Giulliano Scatalon da Silva Rossi
+- Diogo Braz
+- Pedro Eduardo Bertoluzzi
